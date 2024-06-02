@@ -1,0 +1,36 @@
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\bin\Debug\net5.0\Warmhouse_Models.deps.json
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\bin\Debug\net5.0\Warmhouse_Models.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\bin\Debug\net5.0\Warmhouse_Models.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\obj\Debug\net5.0\Warmhouse_Models.csproj.AssemblyReference.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\obj\Debug\net5.0\Warmhouse_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\obj\Debug\net5.0\Warmhouse_Models.AssemblyInfoInputs.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\obj\Debug\net5.0\Warmhouse_Models.AssemblyInfo.cs
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\obj\Debug\net5.0\Warmhouse_Models.csproj.CoreCompileInputs.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\obj\Debug\net5.0\Warmhouse_Models.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\obj\Debug\net5.0\refint\Warmhouse_Models.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\obj\Debug\net5.0\Warmhouse_Models.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_Models\obj\Debug\net5.0\ref\Warmhouse_Models.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\bin\Debug\net5.0\Warmhouse_Models.deps.json
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\bin\Debug\net5.0\Warmhouse_Models.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\bin\Debug\net5.0\Warmhouse_Models.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.csproj.AssemblyReference.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.AssemblyInfoInputs.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.AssemblyInfo.cs
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.csproj.CoreCompileInputs.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\obj\Debug\net5.0\refint\Warmhouse_Models.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_Models\obj\Debug\net5.0\ref\Warmhouse_Models.dll
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\bin\Debug\net5.0\Warmhouse_Models.deps.json
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\bin\Debug\net5.0\Warmhouse_Models.dll
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\bin\Debug\net5.0\Warmhouse_Models.pdb
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.csproj.AssemblyReference.cache
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.AssemblyInfoInputs.cache
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.AssemblyInfo.cs
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.csproj.CoreCompileInputs.cache
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.dll
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\obj\Debug\net5.0\refint\Warmhouse_Models.dll
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\obj\Debug\net5.0\Warmhouse_Models.pdb
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_Models\obj\Debug\net5.0\ref\Warmhouse_Models.dll

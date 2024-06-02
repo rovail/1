@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\bin\Debug\net5.0\Rocky_Utility.deps.json
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\bin\Debug\net5.0\Rocky_Utility.dll
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\bin\Debug\net5.0\Rocky_Utility.pdb
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.AssemblyInfo.cs
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.dll
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\obj\Debug\net5.0\refint\Rocky_Utility.dll
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.pdb
+C:\Users\User\Desktop\Rocky-Part-2-master\Rocky_Utility\obj\Debug\net5.0\ref\Rocky_Utility.dll
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\bin\Debug\net5.0\Rocky_Utility.deps.json
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\bin\Debug\net5.0\Rocky_Utility.dll
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\bin\Debug\net5.0\Rocky_Utility.pdb
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.csproj.AssemblyReference.cache
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.AssemblyInfoInputs.cache
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.AssemblyInfo.cs
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.csproj.CoreCompileInputs.cache
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.dll
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\obj\Debug\net5.0\refint\Rocky_Utility.dll
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\obj\Debug\net5.0\Rocky_Utility.pdb
+D:\Курсовые работы\3 курс\Моя курсовая работа\Rocky Shop\Rocky_Utility\obj\Debug\net5.0\ref\Rocky_Utility.dll

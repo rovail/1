@@ -1,0 +1,51 @@
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\bin\Debug\net5.0\Warmhouse_DataAccess.deps.json
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\bin\Debug\net5.0\Warmhouse_DataAccess.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\bin\Debug\net5.0\Warmhouse_DataAccess.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\bin\Debug\net5.0\Warmhouse_Models.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\bin\Debug\net5.0\Warmhouse_Utility.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\bin\Debug\net5.0\Warmhouse_Models.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\bin\Debug\net5.0\Warmhouse_Utility.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.csproj.AssemblyReference.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.AssemblyInfoInputs.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.AssemblyInfo.cs
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.csproj.CoreCompileInputs.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.csproj.CopyComplete
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\obj\Debug\net5.0\refint\Warmhouse_DataAccess.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Rocky_DataAccess\obj\Debug\net5.0\ref\Warmhouse_DataAccess.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.csproj.AssemblyReference.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.AssemblyInfoInputs.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.AssemblyInfo.cs
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.csproj.CoreCompileInputs.cache
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\obj\Debug\net5.0\refint\Warmhouse_DataAccess.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_DataAccess.deps.json
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_DataAccess.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_DataAccess.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_Models.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_Utility.dll
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_Models.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_Utility.pdb
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhous.2B2D6873.Up2Date
+D:\Курсовые работы\3 курс\Курсовая работа(Пиявский)\Warmhouse\Warmhouse_DataAccess\obj\Debug\net5.0\ref\Warmhouse_DataAccess.dll
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_DataAccess.deps.json
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_DataAccess.dll
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_DataAccess.pdb
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_Models.dll
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_Utility.dll
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_Models.pdb
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\bin\Debug\net5.0\Warmhouse_Utility.pdb
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.csproj.AssemblyReference.cache
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.AssemblyInfoInputs.cache
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.AssemblyInfo.cs
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhous.2B2D6873.Up2Date
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.dll
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\obj\Debug\net5.0\refint\Warmhouse_DataAccess.dll
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\obj\Debug\net5.0\Warmhouse_DataAccess.pdb
+C:\Users\kpops\OneDrive\Рабочий стол\1\Warmhouse_DataAccess\obj\Debug\net5.0\ref\Warmhouse_DataAccess.dll
